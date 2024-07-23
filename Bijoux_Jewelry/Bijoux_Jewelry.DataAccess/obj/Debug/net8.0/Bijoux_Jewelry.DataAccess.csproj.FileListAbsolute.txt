@@ -1,0 +1,15 @@
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\bin\Debug\net8.0\Bijoux_Jewelry.DataAccess.deps.json
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\bin\Debug\net8.0\Bijoux_Jewelry.DataAccess.runtimeconfig.json
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\bin\Debug\net8.0\Bijoux_Jewelry.DataAccess.dll
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\bin\Debug\net8.0\Bijoux_Jewelry.DataAccess.pdb
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.csproj.AssemblyReference.cache
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.AssemblyInfoInputs.cache
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.AssemblyInfo.cs
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.csproj.CoreCompileInputs.cache
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.sourcelink.json
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.dll
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\refint\Bijoux_Jewelry.DataAccess.dll
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.pdb
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.genruntimeconfig.cache
+D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\ref\Bijoux_Jewelry.DataAccess.dll
