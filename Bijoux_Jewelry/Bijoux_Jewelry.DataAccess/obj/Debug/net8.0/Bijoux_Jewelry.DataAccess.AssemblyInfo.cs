@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bijoux_Jewelry.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e452aa0b40168d39255e41e85818799468965012")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b705c1d7fc11102b32852b04b49525b14fb7f273")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bijoux_Jewelry.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bijoux_Jewelry.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
