@@ -4588,11 +4588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SOURCE\\FPT-PRN212\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj",
+      "projectUniqueName": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj",
       "projectName": "Bijoux_Jewelry",
-      "projectPath": "D:\\SOURCE\\FPT-PRN212\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj",
+      "projectPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj",
       "packagesPath": "C:\\Users\\baohu\\.nuget\\packages\\",
-      "outputPath": "D:\\SOURCE\\FPT-PRN212\\Bijoux_Jewelry\\Bijoux_Jewelry\\obj\\",
+      "outputPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baohu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4610,11 +4610,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\SOURCE\\FPT-PRN212\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj": {
-              "projectPath": "D:\\SOURCE\\FPT-PRN212\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj"
+            "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj"
             },
-            "D:\\SOURCE\\FPT-PRN212\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj": {
-              "projectPath": "D:\\SOURCE\\FPT-PRN212\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj"
+            "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj"
             }
           }
         }

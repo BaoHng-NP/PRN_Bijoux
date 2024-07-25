@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ae8l3BcsWbA=",
+  "dgSpecHash": "wLA8DnC9sOQ=",
   "success": true,
-  "projectFilePath": "D:\\SOURCE\\FPT-PRN212\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\baohu\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\baohu\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

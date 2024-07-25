@@ -21,6 +21,27 @@ namespace Bijoux_Jewelry.DataAccess.Repositories
                 .ToList();
             return list;
         }
+
+        public Diamond GetById(int id)
+        {
+            _context = new();
+            return _context.Diamonds.Find(id);
+        }
+
+        public void Add(Diamond diamond)
+        {
+            _context = new();
+            _context.Diamonds.Add(diamond);
+            _context.SaveChanges();
+        }
+
+         public void Update(Diamond diamond)
+        {
+            _context = new();
+            _context.Diamonds.Update(diamond);
+            _context.SaveChanges();
+        }
+
         public void delete(Diamond diamond)
         {
             _context = new();

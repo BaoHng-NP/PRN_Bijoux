@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry\obj\Debug\net8.0-windows\
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry\obj\Debug\net8.0-windows\
 Bijoux_Jewelry
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\SOURCE\FPT-PRN212\Bijoux_Jewelry\Bijoux_Jewelry\App.xaml
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry\App.xaml
 111996459385
 
 161187795922
-246527535487
+246-2128645854
 AddDiamond.xaml;AddMetal.xaml;CustomerWindow.xaml;DesignerWindow.xaml;LoginWindow.xaml;MainWindow.xaml;ManagerWindow.xaml;OrderDetail.xaml;ProductionWindow.xaml;QuoteDetail.xaml;SaleWindow.xaml;
 
 True

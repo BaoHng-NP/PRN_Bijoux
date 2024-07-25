@@ -61,7 +61,7 @@ namespace Bijoux_Jewelry {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Bijoux_Jewelry;component/adddiamond.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Bijoux_Jewelry;V1.0.0.0;component/adddiamond.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddDiamond.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
