@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj": {}
+    "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj": {}
   },
   "projects": {
-    "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj": {
+    "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj",
         "projectName": "Bijoux_Jewelry.DataAccess",
-        "projectPath": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\XUAN BACH\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\baohu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\XUAN BACH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baohu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -82,21 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj": {
+    "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj",
         "projectName": "Bijoux_Jewelry.BusinessLogicLayer",
-        "projectPath": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj",
-        "packagesPath": "C:\\Users\\XUAN BACH\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\obj\\",
+        "projectPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\baohu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\XUAN BACH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baohu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,14 +105,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj": {
-                "projectPath": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj"
+              "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj"
               }
             }
           }
@@ -168,21 +170,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj": {
+    "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj",
+        "projectUniqueName": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj",
         "projectName": "Bijoux_Jewelry",
-        "projectPath": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj",
-        "packagesPath": "C:\\Users\\XUAN BACH\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\obj\\",
+        "projectPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\Bijoux_Jewelry.csproj",
+        "packagesPath": "C:\\Users\\baohu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\XUAN BACH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baohu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -190,17 +192,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj": {
-                "projectPath": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj"
+              "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj"
               },
-              "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj": {
-                "projectPath": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj"
+              "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj"
               }
             }
           }
@@ -260,7 +263,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
