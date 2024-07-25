@@ -53,9 +53,19 @@ public partial class DiamondShopDbContext : DbContext
         if (!optionsBuilder.IsConfigured)
         {
             //var connectionString = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build().GetConnectionString("ConnectionStrings");
-            optionsBuilder.UseSqlServer("Server=BHNG\\SQLEXPRESS;Database=DiamondShopDB;UID=sa;PWD=12345;Trusted_Connection=True;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer(GetConnectionString());
         }
     }
+        private string GetConnectionString()
+        {
+            IConfiguration config = new ConfigurationBuilder()
+                 .SetBasePath(Directory.GetCurrentDirectory())
+                        .AddJsonFile("appsettings.json", true, true)
+                        .Build();
+            var strConn = config["ConnectionStrings:DefaultConnectionStringDB"];
+
+            return strConn;
+        }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

@@ -23,11 +23,11 @@ public partial class Diamond
 
     public DateTime Created { get; set; }
 
-    public virtual DiamondClarity DiamondClarity { get; set; } = null!;
+    public virtual DiamondClarity? DiamondClarity { get; set; } = null!;
 
-    public virtual DiamondColor DiamondColor { get; set; } = null!;
+    public virtual DiamondColor? DiamondColor { get; set; } = null!;
 
-    public virtual DiamondOrigin DiamondOrigin { get; set; } = null!;
+    public virtual DiamondOrigin? DiamondOrigin { get; set; } = null!;
 
     public virtual ICollection<ProductDiamond> ProductDiamonds { get; set; } = new List<ProductDiamond>();
 }

@@ -48,6 +48,24 @@ namespace Bijoux_Jewelry.DataAccess.Repositories
             _context.Diamonds.Remove(diamond);
             _context.SaveChanges();
         }
+        public List<DiamondColor> GetAllColor()
+        {
+            _context = new();
+            List<DiamondColor> list = _context.DiamondColors.ToList();
+            return list;
+        }
+        public List<DiamondOrigin> GetAllOrigin()
+        {
+            _context = new();
+            List<DiamondOrigin> list = _context.DiamondOrigins.ToList();
+            return list;
+        }
+        public List<DiamondClarity> GetAllClarity()
+        {
+            _context = new();
+            List<DiamondClarity> list = _context.DiamondClarities.ToList();
+            return list;
+        }
 
     }
 }

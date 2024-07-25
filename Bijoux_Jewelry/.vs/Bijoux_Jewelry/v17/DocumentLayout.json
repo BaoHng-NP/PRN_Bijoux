@@ -1,53 +1,137 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\",
+  "WorkspaceRootPath": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\diamondservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\diamondservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\metalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\metalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\models\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\models\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\repositories\\diamondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\repositories\\diamondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\repositories\\metalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\repositories\\metalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\managerwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\managerwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\managerwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\salewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\diamondservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\diamondservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\metalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\metalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\repositories\\diamondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\repositories\\diamondrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\models\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\models\\diamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\managerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\productdiamondservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\productdiamondservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\models\\diamondorigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\models\\diamondorigin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\models\\diamondcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\models\\diamondcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\models\\diamondshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\models\\diamondshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\repositories\\metalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\repositories\\metalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\models\\diamondclarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\models\\diamondclarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\models\\metal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\models\\metal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\orderdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\orderdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\productmetalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\productmetalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\producttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\producttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.services\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D83CE82F-8097-4CAF-A835-B7546CC41F14}|Bijoux_Jewelry.Services\\Bijoux_Jewelry.BusinessLogicLayer.csproj|solutionrelative:bijoux_jewelry.services\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\orderdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\orderdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\quotedetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\quotedetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\productionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\productionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\salewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\salewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\salewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry\\salewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{047F461E-616C-43B6-87BC-452E3615464E}|Bijoux_Jewelry\\Bijoux_Jewelry.csproj|solutionrelative:bijoux_jewelry\\salewindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|c:\\users\\baohu\\desktop\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|d:\\personal\\bin\\fptuni\\semester 5\\prn212\\.project\\prn_bijoux\\bijoux_jewelry\\bijoux_jewelry.dataaccess\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2768FE2-3453-47A5-8469-EF5EF8CBDBDB}|Bijoux_Jewelry.DataAccess\\Bijoux_Jewelry.DataAccess.csproj|solutionrelative:bijoux_jewelry.dataaccess\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,113 +142,357 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\AccountService.cs",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\AccountService.cs",
-              "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\AccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T11:04:01.427Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DiamondService.cs",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\DiamondService.cs",
-              "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\DiamondService.cs",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\DiamondService.cs",
-              "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\DiamondService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Title": "ManagerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\ManagerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry\\ManagerWindow.xaml.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\ManagerWindow.xaml.cs",
+              "RelativeToolTip": "Bijoux_Jewelry\\ManagerWindow.xaml.cs",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAIwCcBAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T11:03:46.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Diamond.cs",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Diamond.cs",
-              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Models\\Diamond.cs",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Diamond.cs",
-              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Models\\Diamond.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA1wB0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T11:02:53.834Z",
+              "WhenOpened": "2024-07-25T09:45:52.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DiamondRepository.cs",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\DiamondRepository.cs",
-              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Repositories\\DiamondRepository.cs",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\DiamondRepository.cs",
-              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Repositories\\DiamondRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Title": "Diamond.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Diamond.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Models\\Diamond.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Diamond.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Models\\Diamond.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T11:01:05.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T11:02:53.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerWindow.xaml",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\ManagerWindow.xaml",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry\\ManagerWindow.xaml",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\ManagerWindow.xaml",
+              "RelativeToolTip": "Bijoux_Jewelry\\ManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-25T09:45:50.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiamondRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\DiamondRepository.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Repositories\\DiamondRepository.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\DiamondRepository.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Repositories\\DiamondRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:01:05.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiamondService.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\DiamondService.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\DiamondService.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\DiamondService.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\DiamondService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:03:46.355Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MetalService.cs",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\MetalService.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\MetalService.cs",
               "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\MetalService.cs",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\MetalService.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\MetalService.cs",
               "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\MetalService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:59:22.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MetalRepository.cs",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\MetalRepository.cs",
-              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Repositories\\MetalRepository.cs",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\MetalRepository.cs",
-              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Repositories\\MetalRepository.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAswBgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T10:56:31.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T10:59:22.96Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "DiamondShopDbContext.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\DiamondShopDbContext.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Models\\DiamondShopDbContext.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\DiamondShopDbContext.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Models\\DiamondShopDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:15:17.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiamondColor.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\DiamondColor.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Models\\DiamondColor.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\DiamondColor.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Models\\DiamondColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:30:23.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDiamondService.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\ProductDiamondService.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\ProductDiamondService.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\ProductDiamondService.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\ProductDiamondService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:02:02.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DiamondOrigin.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\DiamondOrigin.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Models\\DiamondOrigin.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\DiamondOrigin.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Models\\DiamondOrigin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:52:26.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MetalRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\MetalRepository.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Repositories\\MetalRepository.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\MetalRepository.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Repositories\\MetalRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:56:31.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry\\MainWindow.xaml",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\MainWindow.xaml",
+              "RelativeToolTip": "Bijoux_Jewelry\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-25T11:35:41.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DiamondClarity.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\DiamondClarity.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Models\\DiamondClarity.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\DiamondClarity.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Models\\DiamondClarity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:30:23.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductMetalService.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\ProductMetalService.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\ProductMetalService.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\ProductMetalService.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\ProductMetalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:35:16.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Metal.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Metal.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Models\\Metal.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Metal.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Models\\Metal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:03:39.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetail.xaml",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\OrderDetail.xaml",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry\\OrderDetail.xaml",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\OrderDetail.xaml",
+              "RelativeToolTip": "Bijoux_Jewelry\\OrderDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-25T11:35:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\ProductService.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:19:14.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAtwBoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:35:44.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Models\\Account.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Account.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Models\\Account.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:39:45.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\AccountService.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\AccountService.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\AccountService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:04:01.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductTypeService.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\ProductTypeService.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\ProductTypeService.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\ProductTypeService.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\ProductTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:35:14.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\OrderService.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:35:08.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderDetail.xaml.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\OrderDetail.xaml.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry\\OrderDetail.xaml.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\OrderDetail.xaml.cs",
+              "RelativeToolTip": "Bijoux_Jewelry\\OrderDetail.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwBwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:40:29.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry\\LoginWindow.xaml",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\LoginWindow.xaml",
+              "RelativeToolTip": "Bijoux_Jewelry\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-25T11:35:43.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuoteService.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\QuoteService.cs",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry.Services\\Services\\QuoteService.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.Services\\Services\\QuoteService.cs",
+              "RelativeToolTip": "Bijoux_Jewelry.Services\\Services\\QuoteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:04:16.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\appsettings.json",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry\\appsettings.json",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\appsettings.json",
+              "RelativeToolTip": "Bijoux_Jewelry\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T13:06:12.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuoteDetail.xaml",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\QuoteDetail.xaml",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry\\QuoteDetail.xaml",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\QuoteDetail.xaml",
+              "RelativeToolTip": "Bijoux_Jewelry\\QuoteDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-25T11:36:06.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry\\CustomerWindow.xaml",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\CustomerWindow.xaml",
+              "RelativeToolTip": "Bijoux_Jewelry\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-25T11:35:44.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductionWindow.xaml",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\ProductionWindow.xaml",
+              "RelativeDocumentMoniker": "Bijoux_Jewelry\\ProductionWindow.xaml",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\ProductionWindow.xaml",
+              "RelativeToolTip": "Bijoux_Jewelry\\ProductionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-25T11:35:36.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\OrderRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Repositories\\OrderRepository.cs",
               "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Repositories\\OrderRepository.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,23 +500,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ManagerWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\ManagerWindow.xaml",
-              "RelativeDocumentMoniker": "Bijoux_Jewelry\\ManagerWindow.xaml",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\ManagerWindow.xaml",
-              "RelativeToolTip": "Bijoux_Jewelry\\ManagerWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-25T09:45:50.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 32,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Order.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Bijoux_Jewelry.DataAccess\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Order.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry.DataAccess\\Models\\Order.cs",
               "RelativeToolTip": "Bijoux_Jewelry.DataAccess\\Models\\Order.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAIwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,11 +512,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 31,
               "Title": "SaleWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\SaleWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\SaleWindow.xaml.cs",
               "RelativeDocumentMoniker": "Bijoux_Jewelry\\SaleWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\SaleWindow.xaml.cs",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\SaleWindow.xaml.cs",
               "RelativeToolTip": "Bijoux_Jewelry\\SaleWindow.xaml.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAMwD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,26 +524,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
               "Title": "SaleWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\SaleWindow.xaml",
+              "DocumentMoniker": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\SaleWindow.xaml",
               "RelativeDocumentMoniker": "Bijoux_Jewelry\\SaleWindow.xaml",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\SaleWindow.xaml",
+              "ToolTip": "D:\\Personal\\Bin\\FPTUni\\Semester 5\\PRN212\\.Project\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\SaleWindow.xaml",
               "RelativeToolTip": "Bijoux_Jewelry\\SaleWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-25T09:46:54.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ManagerWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\ManagerWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Bijoux_Jewelry\\ManagerWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\baohu\\Desktop\\PRN_Bijoux\\Bijoux_Jewelry\\Bijoux_Jewelry\\ManagerWindow.xaml.cs",
-              "RelativeToolTip": "Bijoux_Jewelry\\ManagerWindow.xaml.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAawEcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T09:45:52.8Z"
             }
           ]
         }

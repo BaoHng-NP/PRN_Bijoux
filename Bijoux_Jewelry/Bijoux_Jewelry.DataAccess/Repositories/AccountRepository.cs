@@ -21,5 +21,16 @@ namespace Bijoux_Jewelry.DataAccess.Repositories
             _context = new();
             return _context.Accounts.ToList();
         }
+        public Account GetById(int id)
+        {
+            _context = new();
+            return _context.Accounts.FirstOrDefault(x => x.Id == id);
+        }
+        public void Update(Account account)
+        {
+            _context = new();
+            _context.Accounts.Update(account);
+            _context.SaveChanges();
+        }
     }
 }

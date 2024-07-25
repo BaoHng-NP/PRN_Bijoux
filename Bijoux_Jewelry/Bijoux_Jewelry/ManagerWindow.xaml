@@ -10,10 +10,107 @@
     <Grid>
         <TabControl Margin="0,39,0,0" Grid.RowSpan="2">
             <TabItem Header="Customer">
-                <Grid Background="#FFE5E5E5"/>
+                <Grid Background="#FFE5E5E5" RenderTransformOrigin="0.503,0.43">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="150"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="Customer Id" Margin="0,0,689,121"/>
+                        <TextBox x:Name="txtId"  IsReadOnly="True" TextWrapping="Wrap" Margin="84,4,571,124"/>
+                        <Label Content="Username" Margin="0,32,689,87"/>
+                        <TextBox x:Name="txtUsername" Margin="77,34,571,92"/>
+                        <Label Content="Phone" Margin="0,64,722,55"/>
+                        <TextBox x:Name="txtPhone" Margin="77,67,571,59"/>
+                        <Label Content="Date Of Birth" Margin="0,100,676,19"/>
+                        <DatePicker x:Name="dpDob" Margin="97,101,571,25"/>
+                        <Label Content="Email" Margin="291,5,408,115"/>
+                        <TextBox x:Name="txtEmail" Margin="352,5,292,121"/>
+                        <Label Content="Full Name" Margin="291,34,408,86"/>
+                        <TextBox x:Name="txtFullname" Margin="379,36,292,90"/>
+                        <Label Content="Created" Margin="291,64,430,56"/>
+                        <DatePicker x:Name="dpCreated" Margin="364,67,292,59" IsHitTestVisible="False" IsEnabled="False"/>
+                        <CheckBox x:Name="chkStatus" Content="Status" Margin="291,106,419,29"/>
+                        <Button Content="Edit" Margin="588,114,10,10" Click="Edit"/>
+                    </Grid>
+                    <DataGrid Grid.Row="1" x:Name="CustomerDataGrid" AutoGenerateColumns="False" IsReadOnly="True" SelectionChanged="CustomerDataGrid_SelectionChanged">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Width="50" Binding="{Binding Id}" />
+                            <DataGridTextColumn Header="Username" Width="80" Binding="{Binding Username}" />
+                            <DataGridTextColumn Header="Phone" Width="90" Binding="{Binding Phone}" />
+                            <DataGridTextColumn Header="Date Of Birth" Width="100" Binding="{Binding Dob}" />
+                            <DataGridTextColumn Header="Email" Width="120" Binding="{Binding Email}" />
+                            <DataGridTextColumn Header="Full Name" Width="120" Binding="{Binding Fullname}" />
+                            <DataGridTextColumn Header="Created" Width="*" Binding="{Binding Created}" />
+                            <DataGridTextColumn Header="Status" Width="70" Binding="{Binding Status}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
             </TabItem>
             <TabItem Header="Staff">
-                <Grid Background="#FFE5E5E5"/>
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="150"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="Staff Id" Margin="0,0,689,121"/>
+                        <TextBox x:Name="txtSId"  IsReadOnly="True" TextWrapping="Wrap" Margin="84,4,571,124"/>
+                        <Label Content="Username" Margin="0,32,689,87"/>
+                        <TextBox x:Name="txtSUsername" Margin="77,34,571,92"/>
+                        <Label Content="Phone" Margin="0,64,722,55"/>
+                        <TextBox x:Name="txtSPhone" Margin="77,67,571,59"/>
+                        <Label Content="Date Of Birth" Margin="0,100,676,19"/>
+                        <DatePicker x:Name="dpSDob" Margin="97,101,571,25"/>
+                        <Label Content="Email" Margin="291,5,408,115"/>
+                        <TextBox x:Name="txtSEmail" Margin="352,5,292,121"/>
+                        <Label Content="Full Name" Margin="291,34,408,86"/>
+                        <TextBox x:Name="txtSFullname" Margin="379,36,292,90"/>
+                        <Label Content="Created" Margin="291,64,430,56"/>
+                        <DatePicker x:Name="dpSCreated" Margin="364,67,292,59" IsHitTestVisible="False" IsEnabled="False"/>
+                        <CheckBox x:Name="chkSStatus" Content="Status" Margin="291,106,419,29"/>
+       
+                        <Label Content="Role" Margin="525,4,174,116"/>
+                        <TextBox x:Name="txtRole" IsReadOnly="True" Margin="563,5,124,121"/>
+                    </Grid>
+                    <DataGrid Grid.Row="1" x:Name="StaffDataGrid" AutoGenerateColumns="False" IsReadOnly="True" SelectionChanged="StaffDataGrid_SelectionChanged">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Width="50" Binding="{Binding Id}" />
+                            <DataGridTextColumn Header="Username" Width="80" Binding="{Binding Username}" />
+                            <DataGridTextColumn Header="Phone" Width="90" Binding="{Binding Phone}" />
+                            <DataGridTextColumn Header="Date Of Birth" Width="100" Binding="{Binding Dob}" />
+                            <DataGridTextColumn Header="Email" Width="120" Binding="{Binding Email}" />
+                            <DataGridTextColumn Header="Full Name" Width="120" Binding="{Binding Fullname}" />
+                            <DataGridTextColumn Header="Created" Width="*" Binding="{Binding Created}" />
+                            <DataGridTemplateColumn Header="Role" Width="*">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock>
+                                            <TextBlock.Style>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="Text" Value="{Binding Role}" />
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding Role}" Value="3">
+                                                            <Setter Property="Text" Value="Sale" />
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding Role}" Value="4">
+                                                            <Setter Property="Text" Value="Design" />
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding Role}" Value="5">
+                                                            <Setter Property="Text" Value="Production" />
+                                                        </DataTrigger>
+                                                        <!-- Add more DataTriggers for other roles as needed -->
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </TextBlock.Style>
+                                        </TextBlock>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <DataGridTextColumn Header="Status" Width="70" Binding="{Binding Status}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
             </TabItem>
 
 
@@ -78,10 +175,79 @@
                 </Grid>
             </TabItem>
             <TabItem Header="Metal">
-                <Grid Background="#FFE5E5E5" Margin="43,62,14,0"/>
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="150"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="Metal Id" Margin="0,0,689,121"/>
+                        <TextBox x:Name="txtMId"  IsReadOnly="True" TextWrapping="Wrap" Margin="84,4,571,124"/>
+                        <Label Content="Name" Margin="0,32,689,87"/>
+                        <TextBox x:Name="txtMName" Margin="77,34,571,92"/>
+                        <Label Content="Buy Price" Margin="0,64,722,55"/>
+                        <TextBox x:Name="txtMBuyPrice" Margin="77,67,571,59"/>
+                        <Label Content="Sale Price" Margin="0,100,676,19"/>
+                        <TextBox x:Name="txtMSalePrice" Margin="77,101,571,25"/>
+                        <Label Content="Specific Weight" Margin="291,5,378,115"/>
+                        <TextBox x:Name="txtSpecifixWeight" Margin="391,7,253,119"/>
+                        <Label Content="Created" Margin="291,35,430,85"/>
+                        <DatePicker x:Name="dpMCreated" Margin="364,38,292,88" IsHitTestVisible="False" IsEnabled="False"/>
+                        <CheckBox x:Name="chkDeactivate" Content="Deactivated" Margin="291,72,356,63"/>
+                        <Button Content="Edit" Margin="588,114,10,10" Click="EditMetal"/>
+                        <Button Content="Add" Margin="588,77,10,47" Click="AddMetal"/>
+                    </Grid>
+                    <DataGrid Grid.Row="1" x:Name="MetalDataGrid" AutoGenerateColumns="False" IsReadOnly="True" SelectionChanged="MetalDataGrid_SelectionChanged">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Width="50" Binding="{Binding Id}" />
+                            <DataGridTextColumn Header="Name" Width="80" Binding="{Binding Name}" />
+                            <DataGridTextColumn Header="Buy Price Per Gram" Width="120" Binding="{Binding BuyPricePerGram}" />
+                            <DataGridTextColumn Header="Sale Price Per Gram" Width="120" Binding="{Binding SalePricePerGram}" />
+                            <DataGridTextColumn Header="Specific Weight" Width="120" Binding="{Binding SpecificWeight}" />
+                            <DataGridTextColumn Header="Created" Width="*" Binding="{Binding Created}" />
+                            <DataGridTextColumn Header="Deactivated" Width="70" Binding="{Binding Deactivated}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
             </TabItem>
             <TabItem Header="Diamond">
-                <Grid Background="#FFE5E5E5"/>
+                <Grid Background="#FFE5E5E5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="150"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Label Content="Diamond Id" Margin="0,0,689,121"/>
+                        <TextBox x:Name="txtDId"  IsReadOnly="True" TextWrapping="Wrap" Margin="84,4,571,124"/>
+                        <Label Content="Size" Margin="0,32,689,87"/>
+                        <TextBox x:Name="txtSize" Margin="77,34,571,92"/>
+                        <Label Content="Color" Margin="0,64,722,55"/>
+                        <ComboBox x:Name="cbColor" DisplayMemberPath="Name" Margin="77,67,571,59"/>
+                        <Label Content="Origin" Margin="0,100,676,19"/>
+                        <ComboBox x:Name="cbOrigin" DisplayMemberPath="Name" Margin="77,101,571,25"/>
+                        <Label Content="Clarity" Margin="291,5,378,115"/>
+                        <ComboBox x:Name="cbClarity" DisplayMemberPath="Name" Margin="352,7,292,119"/>
+                        <Label Content="Created" Margin="291,67,430,53"/>
+                        <DatePicker x:Name="dpDCreated" Margin="364,68,292,58" IsHitTestVisible="False" IsEnabled="False"/>
+                        <CheckBox x:Name="chkDStatus" Content="Status" Margin="291,106,356,29"/>
+                        <Button Content="Edit" Margin="588,114,10,10" Click="EditDiamond"/>
+                        <Button Content="Add" Margin="588,77,10,47" Click="AddDiamond"/>
+                        <Label Content="Price" Margin="291,33,378,87"/>
+                        <TextBox x:Name="txtPrice" Margin="356,36,292,90"/>
+                    </Grid>
+                    <DataGrid Grid.Row="1" x:Name="DiamondDataGrid" AutoGenerateColumns="False" IsReadOnly="True" SelectionChanged="DiamondDataGrid_SelectionChanged">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Width="50" Binding="{Binding Id}" />
+                            <DataGridTextColumn Header="Size" Width="50" Binding="{Binding Size}" />
+                            <DataGridTextColumn Header="Color" Width="50" Binding="{Binding DiamondColor.Name}" />
+                            <DataGridTextColumn Header="Origin" Width="50" Binding="{Binding DiamondOrigin.Name}" />
+                            <DataGridTextColumn Header="Clarity" Width="50" Binding="{Binding DiamondClarity.Name}" />
+                            <DataGridTextColumn Header="Price" Width="120" Binding="{Binding Price}" />
+                            <DataGridTextColumn Header="Created" Width="*" Binding="{Binding Created}" />
+                            <DataGridTextColumn Header="Status" Width="70" Binding="{Binding Status}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
             </TabItem>
 
         </TabControl>

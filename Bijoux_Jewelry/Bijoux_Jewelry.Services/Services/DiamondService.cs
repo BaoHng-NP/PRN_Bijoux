@@ -16,6 +16,10 @@ namespace Bijoux_Jewelry.BusinessLogicLayer.Services
         {
             return _diamondRepository.GetAll();
         }
+        public Diamond GetById(int id)
+        {
+            return _diamondRepository.GetById(id);
+        }
         public void add(Diamond diamond)
         {
             _diamondRepository.Add(diamond);
@@ -23,6 +27,18 @@ namespace Bijoux_Jewelry.BusinessLogicLayer.Services
         public void update(Diamond diamond)
         {
             _diamondRepository.Update(diamond);
+        }
+        public List<DiamondColor> GetAllColor()
+        {
+            return _diamondRepository.GetAllColor();
+        }
+        public List<DiamondOrigin> GetAllOrigin()
+        {
+            return _diamondRepository.GetAllOrigin();
+        }
+        public List<DiamondClarity> GetAllClarity()
+        {
+            return _diamondRepository.GetAllClarity();
         }
     }
 }
