@@ -1,0 +1,15 @@
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\bin\Debug\net8.0\Bijoux_Jewelry.DataAccess.deps.json
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\bin\Debug\net8.0\Bijoux_Jewelry.DataAccess.runtimeconfig.json
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\bin\Debug\net8.0\Bijoux_Jewelry.DataAccess.dll
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\bin\Debug\net8.0\Bijoux_Jewelry.DataAccess.pdb
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.csproj.AssemblyReference.cache
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.AssemblyInfoInputs.cache
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.AssemblyInfo.cs
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.sourcelink.json
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.dll
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\refint\Bijoux_Jewelry.DataAccess.dll
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.pdb
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\Bijoux_Jewelry.DataAccess.genruntimeconfig.cache
+C:\Users\baohu\Desktop\PRN_Bijoux\Bijoux_Jewelry\Bijoux_Jewelry.DataAccess\obj\Debug\net8.0\ref\Bijoux_Jewelry.DataAccess.dll
